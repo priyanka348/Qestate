@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "My Qestate Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "author": "",
+  "license": "ISC"
+}

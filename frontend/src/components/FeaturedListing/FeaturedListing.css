@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.listing-detail{
+    font-family: 'Poppins',sans-serif;
+    padding:0.8px;
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+    font-size: 16px;
+}
+
+.property-name{
+ font-weight: 500;
+}
+
+.property-price{
+    font-weight:bold;
+}
+
+.property-city{
+    background-color: rgb(139,22,22);
+    padding:0px 10px;
+    color:white;
+    border-radius: 30px;
+}

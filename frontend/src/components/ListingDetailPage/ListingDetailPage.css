@@ -1,0 +1,30 @@
+.detail-page-container {
+    margin-top:100px;
+    width:80vw;
+    margin:auto auto;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap:10%;
+    margin-bottom:100px;
+}
+
+.image-container img {
+    object-fit: cover;
+    width: 600px;
+}
+
+.title{
+    margin-right: 20px;
+}
+
+.agent-details-content{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    width:90%;
+}
+
+.title{
+    font-size: 18px;
+}
